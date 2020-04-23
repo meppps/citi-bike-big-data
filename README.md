@@ -1,4 +1,7 @@
-# Earthquake Data Visualization in Leaflet #
+# Citi-Bike Big Data Vizulations #
+
+### Tableau Link ###
+https://tabsoft.co/3at83xG
 
 ## Customer Demographic ##
 ![](img/demographic.png)
